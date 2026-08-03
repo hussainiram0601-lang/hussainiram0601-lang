@@ -75,7 +75,7 @@ I’m **Iram Hussain** (`he/her`), a fourth-year **B.Tech Computer Science Engin
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=hussainiram0601-lang&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=hussainiram0601-lang&theme=tokyonight&hide_border=true" />
   <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussainiram0601-lang&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
