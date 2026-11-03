@@ -94,15 +94,14 @@ I'm **Iram Hussain** (he/him), a fourth-year **B.Tech Computer Science Engineeri
 </picture>
 
 </div>
-
-## 📈 GitHub Activity Graph
+<h2 align="center">📈 GitHub Activity Graph</h2>
 
 <div align="center">
-
-<a href="https://github.com/hussainiram0601-lang">
-src="https://github-readme-activity-graph-lpljfotsz-techture.vercel.app/graph?username=hussainiram0601-lang&bg_color=0d1117&color=00d9ff&line=7f00ff&point=00e5ff&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
-</a>
-
+  <img
+    src="https://github-readme-activity-graph-techture.vercel.app?username=hussainiram0601-lang&bg_color=0d1117&color=00d9ff&line=7f00ff&point=00e5ff&area=true&hide_border=true"
+    width="100%"
+    alt="GitHub Activity Graph"
+  />
 </div>
 
 
