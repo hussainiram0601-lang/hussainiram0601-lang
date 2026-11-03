@@ -98,7 +98,7 @@ I'm **Iram Hussain** (he/him), a fourth-year **B.Tech Computer Science Engineeri
 
 <div align="center">
   <img
-    src="https://github-readme-activity-graph-techture.vercel.app?username=hussainiram0601-lang&bg_color=0d1117&color=00d9ff&line=7f00ff&point=00e5ff&area=true&hide_border=true"
+    src="https://github-readme-activity-graph-techture.vercel.app/graph?username=hussainiram0601-lang&bg_color=0d1117&color=00d9ff&line=7f00ff&point=00e5ff&area=true&hide_border=true"
     width="100%"
     alt="GitHub Activity Graph"
   />
