@@ -101,7 +101,7 @@ I'm **Iram Hussain** (he/him), a fourth-year **B.Tech Computer Science Engineeri
 
 <a href="https://github.com/hussainiram0601-lang">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=hussainiram0601-lang&bg_color=0d1117&color=00d9ff&line=7f00ff&point=00e5ff&area=true&hide_border=true&custom_title=Iram%20Hussain's%20GitHub%20Activity"
+    src="https://github-readme-activity-graph-sandy-two.vercel.app/graph?username=hussainiram0601-lang&bg_color=0d1117&color=00d9ff&line=7f00ff&point=00e5ff&area=true&hide_border=true&custom_title=Iram%20Hussain's%20GitHub%20Activity"
     width="100%"
     alt="Iram Hussain GitHub Activity Graph"
   />
