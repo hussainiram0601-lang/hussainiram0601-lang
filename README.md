@@ -100,28 +100,42 @@ I'm **Iram Hussain** (he/him), a fourth-year **B.Tech Computer Science Engineeri
 <div align="center">
 
 <a href="https://github.com/hussainiram0601-lang">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hussainiram0601-lang&bg_color=0d1117&color=00d9ff&line=7f00ff&point=00e5ff&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
+src="https://github-readme-activity-graph-lpljfotsz-techture.vercel.app/graph?username=hussainiram0601-lang&bg_color=0d1117&color=00d9ff&line=7f00ff&point=00e5ff&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
 </a>
 
 </div>
 
-## ⚡ GitHub Analytics
+
+<h2 align="center">⚡ GitHub Analytics</h2>
 
 <div align="center">
 
 <a href="https://github.com/hussainiram0601-lang">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=hussainiram0601-lang&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=7F00FF&text_color=c9d1d9" alt="GitHub Statistics"/>
+  <img
+    height="180"
+    src="https://github-stats-extended.vercel.app/api?username=hussainiram0601-lang&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=7F00FF&text_color=c9d1d9"
+    alt="GitHub Statistics"
+  />
 </a>
 
 <a href="https://github.com/hussainiram0601-lang">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussainiram0601-lang&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9" alt="Top Languages"/>
+  <img
+    height="180"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=hussainiram0601-lang&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9"
+    alt="Top Languages"
+  />
 </a>
 
 <br/><br/>
 
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=hussainiram0601-lang&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=7F00FF&currStreakLabel=00D9FF" alt="GitHub Streak Stats"/>
+<img
+  width="80%"
+  src="https://streak-stats.demolab.com/?user=hussainiram0601-lang&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=7F00FF&currStreakLabel=00D9FF"
+  alt="GitHub Streak"
+/>
 
 </div>
+
 
 ---
 
